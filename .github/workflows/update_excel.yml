@@ -1,0 +1,33 @@
+name: Mise à jour Excel depuis CSV
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # Tous les jours à 7h UTC
+  workflow_dispatch:        # Permet aussi de lancer manuellement
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le repo
+        uses: actions/checkout@v4
+
+      - name: Installer Python et dépendances
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les librairies
+        run: pip install pandas openpyxl
+
+      - name: Lancer le script
+        run: python script_csv_to_excel.py
+
+      - name: Pousser le fichier Excel mis à jour
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add "Base de données à mettre à jour.xlsx"
+          git commit -m "Mise à jour automatique Excel - $(date '+%Y-%m-%d')" || echo "Rien à commiter"
+          git push
