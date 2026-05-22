@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("Base de données initiale.csv" , sep=";", decimal=",")
+df = pd.read_csv("Base de donnees initiale.csv" , sep=";", decimal=",")
 # Lire le fichier csv, avec séparateur ";" car format français
 
 df = df.rename (columns={
@@ -16,5 +16,13 @@ df = df.rename (columns={
 df = df[["Date", "Fruit", "Catégorie", "Quantité vendue (kg)", "Prix unitaire (€ / kg)", "Chiffre d'affaires (€)"]]
 # Remettre les colonne dans le même ordre que l'excel demandé
 
-df.to_excel("Base de données à mettre à jour.xlsx", index=False, sheet_name="Ventes fruits" , engine="openpyxl")
-# Remplace les anciennes données du fichier Excel par celles du CSV
+
+# df.to_excel("Base de donnees a mettre a jour.xlsx", index=False, sheet_name="Ventes fruits" , engine="openpyxl")
+# ce que j'avais mis initiallement mais remplacait completement le fichier excel et perdais la feuille Résumé
+
+
+# A la place:
+with pd.ExcelWriter("Base de donnees a mettre a jour.xlsx", engine="openpyxl", mode="a", if_sheet_exists="replace") as writer:
+    df.to_excel(writer, sheet_name="Ventes fruits", index=False)
+# permet de mettre à jour le fichier excel en gardant la feuille résumé,
+# par contre on perd quand même la mise en page du tableau ventes fruits
