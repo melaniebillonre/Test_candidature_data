@@ -31,6 +31,6 @@ jobs:
         git config --global user.name 'Automated Bot'
         git config --global user.email 'bot@github.com'
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
-        git add Base_de_donne_es_a__mettre_a__jour.xlsx
+        git add Base de donnees a mettre a jour.xlsx
         git commit -m "Mise à jour automatique" || echo "Rien à commiter"
         git push
