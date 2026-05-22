@@ -22,7 +22,7 @@ df = df[["Date", "Fruit", "Catégorie", "Quantité vendue (kg)", "Prix unitaire 
 
 
 # A la place:
-with pd.ExcelWriter("Base de donnees a mettre a jour.xlsx", engine="openpyxl", mode="a", if_sheet_exists="replace") as writer:
+with pd.ExcelWriter("Base de donnees a mettre a jour.xlsx", engine="openpyxl", mode="w") as writer:
     df.to_excel(writer, sheet_name="Ventes fruits", index=False)
 # permet de mettre à jour le fichier excel en gardant la feuille résumé,
 # par contre on perd quand même la mise en page du tableau ventes fruits
