@@ -6,5 +6,4 @@ Je me suis rendue compte que ça remplacait completement le fichier excel et que
 J'ai donc modifié pour que ça ne remplace que la feuille "Vente fruits". 
 La feuille "résumé" reste et les formules fonctionnent mais je perd quand même la mise en page de la feuille "Vente fruits".
 
-J'ai tenté ensuite d'automatiser avec un wrokflow mais c'est quelque chose que je n'ai jamais fait et après plusieurs tentatives je n'ai pas trouvé le bon script pour que ça fonctionne. 
-Il faudra donc que je me forme aussi sur l'automatisation.
+J'ai tenté ensuite d'automatiser avec un wrokflow mais c'est quelque chose que je n'ai jamais fait et il m'a fallut de nombreuses tentatives pour que ça fonctionne.
