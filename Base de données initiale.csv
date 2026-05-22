@@ -1,0 +1,251 @@
+﻿Produit;Type;Date de vente;CA (€);Quantité (kg);Prix/kg (€)
+Kiwis;Fruit exotique;2025-01-04;177,51;30,5;5,82
+Poires;Fruit à pépins;2025-01-04;156,44;33,5;4,67
+Kiwis;Fruit exotique;2025-01-06;72,14;17,9;4,03
+Bananes;Fruit tropical;2025-01-09;133,98;38,5;3,48
+Poires;Fruit à pépins;2025-01-11;188,73;47,9;3,94
+Raisins;Fruit de saison;2025-01-14;59,81;8,4;7,12
+Fraises;Fruit rouge;2025-01-14;304,56;42,3;7,2
+Pommes;Fruit à pépins;2025-01-14;48,14;14,2;3,39
+Bananes;Fruit tropical;2025-01-15;18,6;7,5;2,48
+Pêches;Fruit de saison;2025-01-16;11,97;1,9;6,3
+Fraises;Fruit rouge;2025-01-16;184,81;30,7;6,02
+Ananas;Fruit tropical;2025-01-17;21,84;4,8;4,55
+Bananes;Fruit tropical;2025-01-17;29,0;9,7;2,99
+Bananes;Fruit tropical;2025-01-18;21,25;6,6;3,22
+Fraises;Fruit rouge;2025-01-19;234,27;34,3;6,83
+Oranges;Agrume;2025-01-21;102,91;38,4;2,68
+Bananes;Fruit tropical;2025-01-21;85,35;32,7;2,61
+Mangues;Fruit tropical;2025-01-22;191,39;29,4;6,51
+Pêches;Fruit de saison;2025-01-23;101,3;21,6;4,69
+Mangues;Fruit tropical;2025-01-24;348,34;47,2;7,38
+Ananas;Fruit tropical;2025-01-25;133,03;24,1;5,52
+Ananas;Fruit tropical;2025-01-26;193,31;26,3;7,35
+Abricots;Fruit de saison;2025-01-27;264,26;48,4;5,46
+Kiwis;Fruit exotique;2025-01-30;124,58;31,7;3,93
+Poires;Fruit à pépins;2025-01-30;134,37;34,9;3,85
+Mangues;Fruit tropical;2025-01-31;316,01;39,8;7,94
+Kiwis;Fruit exotique;2025-01-31;131,32;25,4;5,17
+Pêches;Fruit de saison;2025-02-01;129,79;25,6;5,07
+Melons;Fruit d’été;2025-02-02;94,58;34,9;2,71
+Pêches;Fruit de saison;2025-02-03;70,18;15,7;4,47
+Mangues;Fruit tropical;2025-02-05;259,46;30,1;8,62
+Pommes;Fruit à pépins;2025-02-06;112,8;32,6;3,46
+Pêches;Fruit de saison;2025-02-08;290,89;46,1;6,31
+Pommes;Fruit à pépins;2025-02-08;62,06;15,1;4,11
+Kiwis;Fruit exotique;2025-02-09;57,98;12,8;4,53
+Fraises;Fruit rouge;2025-02-10;197,61;33,1;5,97
+Pommes;Fruit à pépins;2025-02-11;70,71;24,3;2,91
+Pommes;Fruit à pépins;2025-02-13;83,35;31,1;2,68
+Pommes;Fruit à pépins;2025-02-16;49,28;12,7;3,88
+Ananas;Fruit tropical;2025-02-17;227,45;46,8;4,86
+Abricots;Fruit de saison;2025-02-19;14,4;3,0;4,8
+Fraises;Fruit rouge;2025-02-20;340,37;42,6;7,99
+Melons;Fruit d’été;2025-02-21;120,39;29,8;4,04
+Poires;Fruit à pépins;2025-02-21;48,62;10,5;4,63
+Mangues;Fruit tropical;2025-02-25;422,07;47,8;8,83
+Mangues;Fruit tropical;2025-02-26;257,28;48,0;5,36
+Pommes;Fruit à pépins;2025-02-27;86,48;24,5;3,53
+Oranges;Agrume;2025-03-01;108,45;42,2;2,57
+Bananes;Fruit tropical;2025-03-03;57,11;17,1;3,34
+Pêches;Fruit de saison;2025-03-03;73,92;19,1;3,87
+Raisins;Fruit de saison;2025-03-05;240,56;38,8;6,2
+Oranges;Agrume;2025-03-13;107,66;35,3;3,05
+Melons;Fruit d’été;2025-03-13;112,14;31,5;3,56
+Kiwis;Fruit exotique;2025-03-14;201,5;42,6;4,73
+Bananes;Fruit tropical;2025-03-18;93,7;44,2;2,12
+Bananes;Fruit tropical;2025-03-18;75,52;31,6;2,39
+Mangues;Fruit tropical;2025-03-19;364,08;41,8;8,71
+Abricots;Fruit de saison;2025-03-19;14,75;3,2;4,61
+Pêches;Fruit de saison;2025-03-20;177,33;38,3;4,63
+Poires;Fruit à pépins;2025-03-23;152,46;36,3;4,2
+Oranges;Agrume;2025-03-24;91,77;39,9;2,3
+Pommes;Fruit à pépins;2025-03-25;35,5;13,1;2,71
+Mangues;Fruit tropical;2025-03-26;174,11;33,1;5,26
+Kiwis;Fruit exotique;2025-03-28;83,52;23,2;3,6
+Poires;Fruit à pépins;2025-03-28;57,96;16,1;3,6
+Kiwis;Fruit exotique;2025-03-31;70,55;16,6;4,25
+Ananas;Fruit tropical;2025-03-31;126,53;17,5;7,23
+Kiwis;Fruit exotique;2025-04-01;5,85;1,3;4,5
+Raisins;Fruit de saison;2025-04-02;263,13;41,7;6,31
+Poires;Fruit à pépins;2025-04-02;135,09;47,4;2,85
+Kiwis;Fruit exotique;2025-04-04;112,71;28,9;3,9
+Bananes;Fruit tropical;2025-04-05;31,21;15,3;2,04
+Kiwis;Fruit exotique;2025-04-06;29,83;8,8;3,39
+Pommes;Fruit à pépins;2025-04-07;107,91;28,7;3,76
+Ananas;Fruit tropical;2025-04-10;36,1;6,3;5,73
+Kiwis;Fruit exotique;2025-04-11;17,22;5,3;3,25
+Raisins;Fruit de saison;2025-04-12;269,35;37,1;7,26
+Kiwis;Fruit exotique;2025-04-13;4,98;1,5;3,32
+Ananas;Fruit tropical;2025-04-14;90,52;19,3;4,69
+Pommes;Fruit à pépins;2025-04-20;84,86;30,2;2,81
+Pommes;Fruit à pépins;2025-04-23;116,47;28,9;4,03
+Poires;Fruit à pépins;2025-04-23;78,64;26,3;2,99
+Kiwis;Fruit exotique;2025-05-01;143,77;32,6;4,41
+Kiwis;Fruit exotique;2025-05-01;63,7;13,0;4,9
+Oranges;Agrume;2025-05-02;47,41;14,5;3,27
+Bananes;Fruit tropical;2025-05-07;13,06;6,8;1,92
+Abricots;Fruit de saison;2025-05-08;37,63;6,2;6,07
+Fraises;Fruit rouge;2025-05-08;427,81;46,3;9,24
+Mangues;Fruit tropical;2025-05-08;348,73;48,3;7,22
+Bananes;Fruit tropical;2025-05-08;63,76;25,3;2,52
+Ananas;Fruit tropical;2025-05-09;118,86;27,2;4,37
+Mangues;Fruit tropical;2025-05-11;232,35;29,3;7,93
+Kiwis;Fruit exotique;2025-05-12;15,46;4,1;3,77
+Kiwis;Fruit exotique;2025-05-13;14,36;2,8;5,13
+Pêches;Fruit de saison;2025-05-14;35,06;8,7;4,03
+Poires;Fruit à pépins;2025-05-15;8,26;2,8;2,95
+Pêches;Fruit de saison;2025-05-17;22,2;6,1;3,64
+Kiwis;Fruit exotique;2025-05-18;30,05;8,3;3,62
+Pommes;Fruit à pépins;2025-05-18;84,25;25,3;3,33
+Raisins;Fruit de saison;2025-05-21;69,41;9,6;7,23
+Oranges;Agrume;2025-05-21;58,31;19,7;2,96
+Oranges;Agrume;2025-05-22;51,7;21,1;2,45
+Poires;Fruit à pépins;2025-05-24;137,36;34,6;3,97
+Melons;Fruit d’été;2025-05-24;13,2;4,6;2,87
+Abricots;Fruit de saison;2025-05-26;86,33;13,2;6,54
+Abricots;Fruit de saison;2025-05-30;44,16;7,9;5,59
+Poires;Fruit à pépins;2025-05-30;102,38;33,9;3,02
+Poires;Fruit à pépins;2025-05-30;48,88;12,1;4,04
+Poires;Fruit à pépins;2025-05-30;110,76;28,4;3,9
+Ananas;Fruit tropical;2025-05-31;277,07;37,8;7,33
+Fraises;Fruit rouge;2025-06-03;65,71;10,3;6,38
+Mangues;Fruit tropical;2025-06-05;38,75;5,0;7,75
+Pommes;Fruit à pépins;2025-06-06;64,48;24,8;2,6
+Pommes;Fruit à pépins;2025-06-08;71,5;26,0;2,75
+Poires;Fruit à pépins;2025-06-08;42,21;10,5;4,02
+Raisins;Fruit de saison;2025-06-09;158,51;35,7;4,44
+Oranges;Agrume;2025-06-11;18,48;5,5;3,36
+Ananas;Fruit tropical;2025-06-12;157,04;33,2;4,73
+Ananas;Fruit tropical;2025-06-12;104,65;17,1;6,12
+Pêches;Fruit de saison;2025-06-13;143,41;22,8;6,29
+Melons;Fruit d’été;2025-06-13;66,29;12,7;5,22
+Mangues;Fruit tropical;2025-06-15;352,79;41,8;8,44
+Kiwis;Fruit exotique;2025-06-24;50,96;9,8;5,2
+Melons;Fruit d’été;2025-06-25;84,3;26,1;3,23
+Kiwis;Fruit exotique;2025-06-25;46,21;12,8;3,61
+Fraises;Fruit rouge;2025-06-25;245,12;26,3;9,32
+Kiwis;Fruit exotique;2025-06-27;80,34;23,7;3,39
+Bananes;Fruit tropical;2025-06-27;64,66;19,3;3,35
+Oranges;Agrume;2025-06-30;3,93;1,3;3,02
+Pommes;Fruit à pépins;2025-07-05;31,16;8,2;3,8
+Kiwis;Fruit exotique;2025-07-05;139,74;34,0;4,11
+Mangues;Fruit tropical;2025-07-06;193,36;40,2;4,81
+Ananas;Fruit tropical;2025-07-06;147,94;20,1;7,36
+Poires;Fruit à pépins;2025-07-07;47,95;12,2;3,93
+Abricots;Fruit de saison;2025-07-08;250,28;35,4;7,07
+Ananas;Fruit tropical;2025-07-13;165,25;25,0;6,61
+Raisins;Fruit de saison;2025-07-14;272,87;43,8;6,23
+Pommes;Fruit à pépins;2025-07-17;38,84;11,7;3,32
+Ananas;Fruit tropical;2025-07-20;26,85;5,0;5,37
+Pêches;Fruit de saison;2025-07-20;11,84;3,1;3,82
+Bananes;Fruit tropical;2025-07-20;74,66;30,6;2,44
+Poires;Fruit à pépins;2025-07-21;59,36;15,3;3,88
+Oranges;Agrume;2025-07-21;147,84;42,0;3,52
+Pêches;Fruit de saison;2025-07-22;205,29;38,3;5,36
+Mangues;Fruit tropical;2025-07-24;124,97;19,9;6,28
+Pêches;Fruit de saison;2025-07-26;185,95;31,2;5,96
+Bananes;Fruit tropical;2025-07-31;46,56;18,7;2,49
+Bananes;Fruit tropical;2025-08-01;138,31;40,8;3,39
+Poires;Fruit à pépins;2025-08-03;94,72;19,9;4,76
+Melons;Fruit d’été;2025-08-04;107,73;28,5;3,78
+Abricots;Fruit de saison;2025-08-04;186,44;32,2;5,79
+Ananas;Fruit tropical;2025-08-06;78,09;13,7;5,7
+Kiwis;Fruit exotique;2025-08-06;160,81;44,3;3,63
+Abricots;Fruit de saison;2025-08-07;31,82;4,8;6,63
+Ananas;Fruit tropical;2025-08-07;252,66;41,9;6,03
+Raisins;Fruit de saison;2025-08-07;203,85;45,3;4,5
+Oranges;Agrume;2025-08-08;86,52;23,9;3,62
+Ananas;Fruit tropical;2025-08-11;197,47;45,5;4,34
+Pêches;Fruit de saison;2025-08-11;50,91;8,5;5,99
+Fraises;Fruit rouge;2025-08-12;167,06;18,1;9,23
+Abricots;Fruit de saison;2025-08-13;252,07;44,3;5,69
+Pêches;Fruit de saison;2025-08-13;205,02;33,5;6,12
+Abricots;Fruit de saison;2025-08-15;263,96;40,3;6,55
+Oranges;Agrume;2025-08-16;38,64;15,9;2,43
+Raisins;Fruit de saison;2025-08-18;128,58;28,7;4,48
+Abricots;Fruit de saison;2025-08-20;15,46;2,9;5,33
+Bananes;Fruit tropical;2025-08-21;42,63;20,3;2,1
+Ananas;Fruit tropical;2025-08-22;72,09;16,2;4,45
+Pêches;Fruit de saison;2025-08-23;192,3;34,9;5,51
+Pêches;Fruit de saison;2025-08-24;114,39;31,0;3,69
+Raisins;Fruit de saison;2025-08-26;61,31;11,7;5,24
+Mangues;Fruit tropical;2025-08-29;139,31;18,6;7,49
+Poires;Fruit à pépins;2025-08-29;18,65;5,6;3,33
+Oranges;Agrume;2025-08-30;145,38;47,2;3,08
+Poires;Fruit à pépins;2025-09-08;147,46;38,5;3,83
+Ananas;Fruit tropical;2025-09-10;117,26;28,6;4,1
+Fraises;Fruit rouge;2025-09-10;95,15;11,3;8,42
+Fraises;Fruit rouge;2025-09-12;93,67;17,0;5,51
+Pêches;Fruit de saison;2025-09-17;199,37;31,2;6,39
+Ananas;Fruit tropical;2025-09-18;146,96;19,7;7,46
+Raisins;Fruit de saison;2025-09-20;173,44;38,8;4,47
+Raisins;Fruit de saison;2025-09-22;43,04;8,0;5,38
+Fraises;Fruit rouge;2025-09-25;23,9;3,7;6,46
+Bananes;Fruit tropical;2025-09-27;62,6;18,8;3,33
+Ananas;Fruit tropical;2025-09-28;185,31;35,5;5,22
+Abricots;Fruit de saison;2025-09-30;98,39;13,8;7,13
+Ananas;Fruit tropical;2025-10-01;56,02;7,5;7,47
+Oranges;Agrume;2025-10-01;39,44;17,0;2,32
+Poires;Fruit à pépins;2025-10-03;97,76;20,8;4,7
+Kiwis;Fruit exotique;2025-10-04;93,26;17,4;5,36
+Kiwis;Fruit exotique;2025-10-04;159,71;31,5;5,07
+Pêches;Fruit de saison;2025-10-07;40,51;9,4;4,31
+Oranges;Agrume;2025-10-08;59,94;25,4;2,36
+Ananas;Fruit tropical;2025-10-08;155,9;22,4;6,96
+Ananas;Fruit tropical;2025-10-11;249,84;33,9;7,37
+Melons;Fruit d’été;2025-10-12;16,54;4,7;3,52
+Bananes;Fruit tropical;2025-10-12;67,27;22,2;3,03
+Oranges;Agrume;2025-10-12;69,42;26,7;2,6
+Abricots;Fruit de saison;2025-10-15;81,2;14,9;5,45
+Abricots;Fruit de saison;2025-10-16;145,39;24,6;5,91
+Melons;Fruit d’été;2025-10-17;101,02;33,9;2,98
+Melons;Fruit d’été;2025-10-19;50,62;17,7;2,86
+Raisins;Fruit de saison;2025-10-21;245,92;39,6;6,21
+Kiwis;Fruit exotique;2025-10-22;17,42;3,1;5,62
+Melons;Fruit d’été;2025-10-25;217,5;42,9;5,07
+Raisins;Fruit de saison;2025-10-25;200,49;28,6;7,01
+Abricots;Fruit de saison;2025-10-26;85,01;21,2;4,01
+Melons;Fruit d’été;2025-10-28;139,59;33,8;4,13
+Melons;Fruit d’été;2025-10-30;154,73;40,4;3,83
+Melons;Fruit d’été;2025-10-31;72,41;17,2;4,21
+Pommes;Fruit à pépins;2025-11-01;80,65;28,1;2,87
+Kiwis;Fruit exotique;2025-11-04;60,29;16,7;3,61
+Fraises;Fruit rouge;2025-11-05;237,12;39,0;6,08
+Mangues;Fruit tropical;2025-11-06;177,8;21,5;8,27
+Oranges;Agrume;2025-11-06;41,44;16,0;2,59
+Abricots;Fruit de saison;2025-11-08;149,4;33,2;4,5
+Mangues;Fruit tropical;2025-11-10;122,3;16,8;7,28
+Mangues;Fruit tropical;2025-11-11;134,39;21,4;6,28
+Poires;Fruit à pépins;2025-11-16;44,64;11,3;3,95
+Kiwis;Fruit exotique;2025-11-16;127,78;24,2;5,28
+Fraises;Fruit rouge;2025-11-21;310,06;41,9;7,4
+Poires;Fruit à pépins;2025-11-21;111,2;30,3;3,67
+Melons;Fruit d’été;2025-11-24;64,23;23,7;2,71
+Ananas;Fruit tropical;2025-11-26;139,06;29,4;4,73
+Abricots;Fruit de saison;2025-11-27;6,45;1,3;4,96
+Kiwis;Fruit exotique;2025-11-27;139,68;42,2;3,31
+Oranges;Agrume;2025-12-01;128,16;35,9;3,57
+Bananes;Fruit tropical;2025-12-01;77,2;32,3;2,39
+Mangues;Fruit tropical;2025-12-02;54,03;10,1;5,35
+Pêches;Fruit de saison;2025-12-02;26,08;5,9;4,42
+Poires;Fruit à pépins;2025-12-03;29,47;9,6;3,07
+Poires;Fruit à pépins;2025-12-06;120,23;26,6;4,52
+Pommes;Fruit à pépins;2025-12-07;20,01;8,2;2,44
+Pêches;Fruit de saison;2025-12-08;12,93;2,7;4,79
+Abricots;Fruit de saison;2025-12-08;264,5;46,0;5,75
+Fraises;Fruit rouge;2025-12-10;245,03;28,1;8,72
+Poires;Fruit à pépins;2025-12-11;24,48;5,1;4,8
+Abricots;Fruit de saison;2025-12-11;289,51;44,2;6,55
+Ananas;Fruit tropical;2025-12-14;193,73;25,9;7,48
+Kiwis;Fruit exotique;2025-12-15;129,54;33,3;3,89
+Fraises;Fruit rouge;2025-12-16;142,46;16,3;8,74
+Pêches;Fruit de saison;2025-12-17;174,71;42,2;4,14
+Pommes;Fruit à pépins;2025-12-17;83,08;33,5;2,48
+Pommes;Fruit à pépins;2025-12-17;18,05;5,1;3,54
+Abricots;Fruit de saison;2025-12-18;250,57;47,1;5,32
+Kiwis;Fruit exotique;2025-12-21;74,5;19,4;3,84
+Ananas;Fruit tropical;2025-12-27;79,62;14,8;5,38
+Oranges;Agrume;2025-12-28;22,72;9,2;2,47
+Mangues;Fruit tropical;2025-12-29;10,68;2,0;5,34
+Melons;Fruit d’été;2025-12-31;198,56;42,7;4,65
