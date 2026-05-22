@@ -22,7 +22,7 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Exécuter le script
-      run: python script.py
+      run: python script_csv_to_excel.py
 
     - name: Sauvegarder l'Excel mis à jour
       env:
