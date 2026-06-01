@@ -1,28 +1,28 @@
 name: Mise à jour quotidienne de l'Excel
 
 on:
-  schedule:
+  schedule:      # va actualiser selon les critères suivants
     - cron: '0 8 * * *'  # tous les jours à 8h UTC
   workflow_dispatch:       # permet aussi de lancer manuellement
 
-jobs:
+jobs:    #décrit toutes les étapes qui vont s'enchainer
   update-excel:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest    # machine Linux fournie par GitHub
 
     steps:
-    - name: Récupérer les fichiers
+    - name: Récupérer les fichiers    # télécharge les fichiers de mon GitHub sur la machine virtuelle ubuntu
       uses: actions/checkout@v4
 
     - name: Installer Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.10'
+        python-version: '3.10'    # Installe Python 3.10 sur la machine virtuelle
 
     - name: Installer les dépendances
-      run: pip install -r requirements.txt
+      run: pip install -r requirements.txt    #Installe les bibliothèques pandas et openpyxl citées sur le fichier requirements
 
     - name: Exécuter le script
-      run: python script_csv_to_excel.py
+      run: python script_csv_to_excel.py      # Lance le script Python que j'ai créé pour mettre à jour le Excel avec le CSV
 
     - name: Sauvegarder l'Excel mis à jour
       env:
